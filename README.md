@@ -9,10 +9,10 @@ Results are displayed in a clean visual webview inside VS Code.
 
 ## Features
 
-- Reads last 50 Git commit messages
-- Performs mood/sentiment analysis using Python
-- Displays a visual summary (bars + details)
-- Works on any local Git repository
+- Reads last 50 Git commit messages.
+- Performs mood/sentiment analysis using Python.
+- Displays a visual summary (bars + details).
+- Works on any local Git repository.
 
 ---
 
