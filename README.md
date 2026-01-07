@@ -20,7 +20,7 @@ Results are displayed in a clean visual webview inside VS Code.
 
 Make sure these are installed **before running**:
 
-- **Git** (available in PATH)
+- **Git** (available in PATH).
 - **Python 3.x**
 - **Node.js (v16 or above)**
 - **Visual Studio Code**
