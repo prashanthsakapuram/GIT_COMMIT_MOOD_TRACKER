@@ -18,7 +18,7 @@ Results are displayed in a clean visual webview inside VS Code.
 
 ## Requirements
 
-Make sure these are installed **before running**:
+Make sure these are installed **before running**
 
 - **Git** (available in PATH).
 - **Python 3.x**
